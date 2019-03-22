@@ -1,0 +1,25 @@
+{
+  "title": "Kubernetes Katas",
+  "description": "Simple exercises to get comfortable with kubectl",
+  "details": {
+    "steps": [
+      {
+        "code": "foreground.sh",
+        "title": "Hello Kubectl",
+        "text": "kubectl.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
