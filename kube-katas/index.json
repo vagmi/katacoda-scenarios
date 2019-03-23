@@ -5,8 +5,12 @@
     "steps": [
       {
         "code": "foreground.sh",
-        "title": "Hello Kubectl",
-        "text": "kubectl.md"
+        "title": "Hello K8S",
+        "text": "hello_k8s.md"
+      },
+      {
+        "title": "kubectl basics",
+        "text": "kubectl_basics.md"
       }
     ],
     "intro": {
